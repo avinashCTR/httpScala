@@ -2,27 +2,8 @@ package org
 
 import org.HTTP.Client
 
-// object Main {
-//   def main(args: Array[String]): Unit = {
-    
-//     // Testing online dummy API
-//     val client = new Client()
-
-//     var response = client.request("https://echo.free.beeceptor.com","GET")
-
-//     println(response)
-
-//     response = client.request("https://echo.free.beeceptor.com","POST", Some("""{"name": "John Doe"}"""))
-
-//     //printing the type of response
-//     println(response)
-
-//     client.shutdown()
-
-//   }
-// }
-
-import scala.concurrent.Future
+import scala.concurrent.{Future, Await}
+import scala.concurrent.duration._
 import scala.concurrent.ExecutionContext.Implicits.global
 
 object Main {
@@ -46,12 +27,13 @@ object Main {
     }
 
     // Wait for all futures to complete
-    Future.sequence(futures).onComplete { _ =>
-      val endTime = System.nanoTime()
-      val totalTimeMs = (endTime - startTime) / 1e6 // Convert to milliseconds
-      println(s"\nTotal execution time: $totalTimeMs ms")
+    Await.result(Future.sequence(futures), 5.minutes)
 
-      client.shutdown()
-    }
+    // Calculate total execution time
+    val endTime = System.nanoTime()
+    val totalTimeMs = (endTime - startTime) / 1e6 // Convert to milliseconds
+    println(s"\nTotal execution time: $totalTimeMs ms")
+
+    client.shutdown()
   }
 }

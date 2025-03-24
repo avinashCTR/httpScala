@@ -5452,3 +5452,604 @@ WARNING: Unsupported notification method: metals/windowStateDidChange
 2025.03.24 17:58:15 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
 2025.03.24 17:58:15 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
 2025.03.24 17:58:15 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:58:38 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 5:59:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:59:31 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:01:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:01:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:01:17 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:01:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:02:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:02:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:02:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:02:22 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:02:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:03:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:05:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:05:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:05:43 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:06:18 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:07:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:07:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:07:44 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:08:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:08:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:09:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:10:18 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:10:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:10:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:10:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:10:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:10:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:11:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:11:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:11:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:11:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:11:44 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:11:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 18:13:08 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:13:08 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 6:13:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:13:45 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:14:20 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:14:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:14:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:15:04 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:15:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:15:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:15:40 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:15:43 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:15:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:16:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:16:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:16:40 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:17:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:17:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:17:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:17:48 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:18:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:19:06 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:19:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:19:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:20:06 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:20:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:20:48 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:20:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:21:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:21:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:21:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:22:32 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:22:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:23:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:23:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:23:20 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:23:26 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:23:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:24:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:24:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:24:31 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:24:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:26:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:26:17 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 18:27:00 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:27:00 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:27:11 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:27:11 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:27:11 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:27:12 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:27:12 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:27:16 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:27:32 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:27:32 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:27:32 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:27:33 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:27:34 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:27:34 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:27:34 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:27:34 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:27:34 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:27:34 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:27:35 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:27:34 WARN  no build target for: /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala
+2025.03.24 18:27:35 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:27:35 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:27:35 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:27:36 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:27:36 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:27:36 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:27:37 WARN  no build target for: /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala
+2025.03.24 18:27:37 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:27:37 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:27:38 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:27:38 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:27:38 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:27:38 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:27:38 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:27:39 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:27:39 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:27:40 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:27:40 WARN  no build target for: /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala
+2025.03.24 18:27:39 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:28:11 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:28:11 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 6:28:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:29:06 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 18:29:08 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:08 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 6:29:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:29:19 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 18:29:19 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:19 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:20 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:21 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:21 WARN  Could not find semantic tokens for: file:///Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala
+2025.03.24 18:29:21 WARN  no build target for: /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala
+2025.03.24 18:29:21 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:21 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:21 WARN  Could not find semantic tokens for: file:///Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala
+2025.03.24 18:29:24 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:24 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:25 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:24 WARN  Could not find semantic tokens for: file:///Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala
+2025.03.24 18:29:26 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:27 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:27 WARN  no build target for: /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala
+2025.03.24 18:29:27 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:27 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:28 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:28 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:29 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:29 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:29 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:30 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:30 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:30 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:30 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:31 WARN  no build target for: /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala
+2025.03.24 18:29:31 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:31 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:32 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:32 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:32 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:31 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:32 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:32 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:32 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:32 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:32 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:32 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:32 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:32 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:33 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:33 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:33 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:33 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:33 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:33 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:33 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:34 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:35 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:35 WARN  no build target for: /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala
+2025.03.24 18:29:35 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:35 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:35 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 6:29:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8179
+2025.03.24 18:29:35 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:35 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:35 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:35 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:36 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:36 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:36 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:36 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:36 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:37 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:36 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:36 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:36 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:36 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:37 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:37 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:37 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:37 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:37 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:38 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:39 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:38 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:39 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:39 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:39 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:39 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:39 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:39 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:39 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:39 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:39 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:40 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:40 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:40 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:40 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:41 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:41 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:41 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:41 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:41 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:41 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:41 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:42 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:42 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:29:42 WARN  no build target for: /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala
+2025.03.24 18:29:42 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 6:30:48 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 18:30:58 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 6:30:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 18:31:15 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:31:15 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:31:16 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 6:31:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:31:47 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:31:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:31:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 18:32:39 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:32:39 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:33:11 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 6:34:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:35:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:40:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:40:40 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 18:40:40 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:40:40 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 6:40:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:40:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:41:00 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:41:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 18:41:22 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:41:22 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:41:22 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:41:23 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:41:22 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:41:24 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:41:24 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:41:25 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:41:28 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:41:28 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:41:29 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:41:29 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:41:29 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:41:31 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:41:54 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:41:54 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:41:54 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:41:54 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 6:41:55 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:42:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:42:18 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:42:19 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:42:22 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:42:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 18:42:37 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:42:37 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 6:42:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:43:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 18:43:16 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:43:19 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 18:43:19 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 6:43:20 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:43:20 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 18:43:34 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 6:45:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:45:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:45:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:46:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:46:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:46:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:46:18 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:47:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:48:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:48:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:48:20 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:48:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:48:39 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:48:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:49:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:49:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:50:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:50:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:50:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:51:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:51:26 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:51:26 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:51:28 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:52:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:53:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:54:22 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:55:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:56:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:56:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:57:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:57:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:57:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:58:39 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:58:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:59:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 6:59:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:00:08 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:00:47 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:00:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:00:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:01:05 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:01:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:01:19 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:01:20 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:01:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:01:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:01:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:01:39 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:01:40 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:01:44 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:01:52 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:01:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:03:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:04:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:04:43 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:04:48 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:04:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:05:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:05:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:05:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:05:04 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:05:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:05:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:06:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:06:18 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:06:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:06:55 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:07:00 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:08:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:08:48 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:10:28 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:10:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:12:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:13:44 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:13:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:13:48 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 19:15:45 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 19:15:46 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 19:15:45 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 19:15:46 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 19:15:46 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 19:15:46 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 19:15:48 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 19:15:48 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 19:15:49 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 19:15:49 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 7:16:20 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:16:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:17:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:17:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:18:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:19:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:19:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:19:18 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:24:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 19:24:15 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 7:24:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:24:20 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 19:24:20 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 7:24:22 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:24:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:24:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:25:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:25:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:25:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:25:22 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 19:25:22 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 19:25:28 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 19:25:28 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 7:25:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:26:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:28:19 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 7:28:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
