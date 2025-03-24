@@ -26,7 +26,7 @@ class Client() {
 
     def postrequest(uri: String ,data: String): Future[String] = {
         val entity = HttpEntity(ContentTypes.`application/json`, data) // Set JSON body
-        val request = HttpRequest(uri = uri, method = HttpMethods.POST, entity = entity)
+        val request = HttpRequest(method = HttpMethods.POST, uri = uri, entity = entity)
 
         val responseFuture: Future[HttpResponse] = Http().singleRequest(request)
 

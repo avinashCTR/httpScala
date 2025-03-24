@@ -4588,3 +4588,867 @@ WARNING: Unsupported notification method: metals/windowStateDidChange
 Mar 21, 2025 3:37:47 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 WARNING: Unsupported notification method: metals/windowStateDidChange
 2025.03.21 15:37:52 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 21, 2025 3:38:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.03.21 15:38:17 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:38:33 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:38:33 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:38:33 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 21, 2025 3:38:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 21, 2025 3:39:17 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 21, 2025 3:39:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 21, 2025 3:39:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.21 15:39:50 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:39:50 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:39:52 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:39:53 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:39:53 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:39:54 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:39:54 WARN  Could not find semantic tokens for: file:///Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala
+2025.03.21 15:39:54 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:39:54 WARN  no build target for: /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala
+2025.03.21 15:39:54 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:39:54 WARN  Could not find semantic tokens for: file:///Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala
+2025.03.21 15:39:56 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:39:57 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:39:57 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:39:57 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:39:58 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:39:58 WARN  Could not find semantic tokens for: file:///Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala
+2025.03.21 15:39:58 WARN  no build target for: /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala
+2025.03.21 15:39:58 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:39:58 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:39:58 WARN  Could not find semantic tokens for: file:///Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala
+2025.03.21 15:39:59 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:39:59 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:39:59 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:39:59 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:40:00 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:40:00 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:40:00 WARN  Could not find semantic tokens for: file:///Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala
+2025.03.21 15:40:03 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:40:03 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:40:04 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:40:04 WARN  no build target for: /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala
+2025.03.21 15:40:04 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:40:27 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:40:34 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:40:34 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:40:36 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:40:36 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:40:37 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:40:36 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:40:37 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:40:37 WARN  no build target for: /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala
+2025.03.21 15:40:37 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:40:37 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 21, 2025 3:41:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.21 15:42:11 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 21, 2025 3:42:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.21 15:42:11 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:42:11 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:42:11 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:42:12 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:42:12 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:42:12 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:42:12 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:42:13 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:42:13 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:42:13 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:42:13 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:42:13 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:42:13 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:42:14 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:42:15 WARN  no build target for: /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala
+2025.03.21 15:42:14 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 15:42:15 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 21, 2025 3:42:55 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 21, 2025 3:43:22 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 21, 2025 3:43:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 21, 2025 3:43:43 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 21, 2025 3:53:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 21, 2025 3:53:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 21, 2025 4:17:32 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 21, 2025 4:17:43 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 21, 2025 4:18:45 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 21, 2025 4:18:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 21, 2025 4:19:08 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 21, 2025 4:19:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 21, 2025 6:16:26 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 21, 2025 6:16:26 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 21, 2025 6:16:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 21, 2025 6:16:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.21 18:48:59 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 18:48:59 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 21, 2025 6:49:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6902
+Mar 21, 2025 6:49:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6903
+2025.03.21 18:48:59 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 20:00:25 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.21 20:00:30 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 21, 2025 8:00:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6905
+2025.03.21 20:00:30 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.22 17:50:45 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.22 17:50:45 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.22 17:50:46 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.22 18:41:02 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.22 18:41:02 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.22 18:41:02 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.22 22:41:25 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.22 22:41:26 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.22 22:41:26 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.22 23:34:10 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.22 23:34:10 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 22, 2025 11:34:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6917
+2025.03.22 23:34:10 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.23 13:05:49 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.23 13:05:49 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.23 13:05:49 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.23 15:23:13 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.23 15:23:13 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 23, 2025 3:23:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6923
+Mar 23, 2025 3:23:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6924
+2025.03.23 15:23:13 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 00:20:37 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 00:20:37 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 00:20:37 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 10:20:27 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 10:22:06 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 10:28:45 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 10:28:45 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 10:28:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6929
+Mar 24, 2025 10:28:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6930
+2025.03.24 10:28:45 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 10:42:36 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 10:42:40 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 10:42:41 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 10:42:41 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 10:43:38 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 10:43:44 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 10:44:01 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 10:44:13 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 10:46:32 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 10:46:33 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 11:54:53 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 11:54:53 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 12:59:40 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 12:59:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 13:52:26 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 14:08:47 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 14:08:47 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 2:40:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 2:40:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 2:41:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 2:41:28 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 14:41:29 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 14:41:33 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 2:41:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6935
+2025.03.24 14:41:33 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 5:01:06 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:01:09 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 17:01:13 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 5:02:19 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:02:44 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 17:04:03 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:04:03 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:04:04 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:04:04 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:04:05 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:04:06 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:04:06 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:04:07 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:04:07 WARN  no build target for: /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala
+2025.03.24 17:04:07 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:04:07 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:04:08 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:04:08 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:04:08 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:04:08 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:04:08 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:04:09 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:04:09 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:04:09 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:04:10 WARN  no build target for: /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala
+2025.03.24 17:04:10 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:04:10 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:04:10 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:04:10 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:04:10 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:04:11 WARN  no build target for: /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala
+2025.03.24 17:04:11 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:04:11 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:11 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:15 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:15 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:15 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:22 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:22 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:22 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:25 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:25 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:25 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:25 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:26 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:26 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:26 WARN  no build target for: /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala
+2025.03.24 17:05:26 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:26 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:26 ERROR /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:76)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.acceptTrivia(ScalaToplevelMtags.scala:1002)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseMethodArgs(ScalaToplevelMtags.scala:686)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseMemberDefinitionLhs(ScalaToplevelMtags.scala:665)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:338)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:88)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:485)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:583)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:580)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1306)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:580)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:927)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:840)
+
+2025.03.24 17:05:26 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:26 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:27 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:27 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:26 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:28 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:28 WARN  no build target for: /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala
+2025.03.24 17:05:28 ERROR /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:76)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.acceptTrivia(ScalaToplevelMtags.scala:1002)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseMethodArgs(ScalaToplevelMtags.scala:686)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseMemberDefinitionLhs(ScalaToplevelMtags.scala:665)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:338)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:88)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:485)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:583)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:580)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1306)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:580)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:927)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:840)
+
+2025.03.24 17:05:28 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:28 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:28 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:28 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:28 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:29 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:29 WARN  no build target for: /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala
+2025.03.24 17:05:29 ERROR /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:76)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.acceptTrivia(ScalaToplevelMtags.scala:1002)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseMethodArgs(ScalaToplevelMtags.scala:686)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseMemberDefinitionLhs(ScalaToplevelMtags.scala:665)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:338)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:88)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:485)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:583)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:580)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1306)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:580)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:927)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:840)
+
+2025.03.24 17:05:29 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:29 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:29 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:29 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:30 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:30 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:31 WARN  no build target for: /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala
+2025.03.24 17:05:31 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:31 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:36 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:36 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:38 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:38 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:38 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:38 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:43 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:44 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:44 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:44 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:44 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:45 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:46 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:46 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:46 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:46 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:47 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:47 WARN  no build target for: /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala
+2025.03.24 17:05:46 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:47 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:47 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:48 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:48 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:48 WARN  no build target for: /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala
+2025.03.24 17:05:48 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:50 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:50 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:52 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:52 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:52 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:52 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:53 WARN  no build target for: /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala
+2025.03.24 17:05:53 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:53 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:53 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:53 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:53 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:53 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:54 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:55 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:54 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:55 WARN  no build target for: /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala
+2025.03.24 17:05:55 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:55 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:55 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:55 WARN  no build target for: /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala
+2025.03.24 17:05:55 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:58 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:58 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:58 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:58 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:58 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:05:59 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:00 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:00 WARN  no build target for: /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala
+2025.03.24 17:06:00 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:00 ERROR /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:76)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.acceptTrivia(ScalaToplevelMtags.scala:1002)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseMethodArgs(ScalaToplevelMtags.scala:686)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.parseMemberDefinitionLhs(ScalaToplevelMtags.scala:665)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:338)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:88)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:485)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:583)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:580)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1306)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:580)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:927)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:840)
+
+2025.03.24 17:06:00 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:00 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:00 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:00 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:00 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:01 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:01 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:01 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:02 WARN  no build target for: /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala
+2025.03.24 17:06:02 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:08 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:08 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:08 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:09 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:10 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:10 WARN  no build target for: /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala
+2025.03.24 17:06:10 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:10 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:10 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:10 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:10 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:10 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:10 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:10 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:11 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:10 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:10 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:10 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:11 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:10 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:11 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:11 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:11 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:11 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:11 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:11 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:11 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:11 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:11 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:12 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:11 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:11 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:11 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:11 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:11 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:12 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:12 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:12 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:12 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:12 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:12 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:12 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:12 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:12 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:13 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:12 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:12 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:12 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:12 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:13 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 5:06:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7335
+2025.03.24 17:06:13 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:13 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:13 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:13 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:13 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:13 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:13 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:13 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:13 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:14 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:13 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:13 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:13 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:13 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:13 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:13 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:14 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:14 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:14 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:14 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:14 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:14 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:14 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:15 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:14 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:14 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:14 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:15 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:15 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:16 WARN  no build target for: /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala
+2025.03.24 17:06:16 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:21 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:21 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:21 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:21 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:21 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:21 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:22 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:22 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:22 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:22 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:22 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:23 WARN  no build target for: /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala
+2025.03.24 17:06:23 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:23 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:24 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:24 WARN  no build target for: /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala
+2025.03.24 17:06:24 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:06:24 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 5:06:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:07:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:09:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 17:09:16 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 5:09:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:10:28 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 17:10:59 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 5:11:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 17:11:28 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:28 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:28 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:28 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:29 WARN  no build target for: /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala
+2025.03.24 17:11:29 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:29 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:33 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:33 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:33 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:33 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:33 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:34 WARN  no build target for: /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala
+2025.03.24 17:11:34 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:37 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:37 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:37 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:37 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:37 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:38 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:38 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:38 WARN  no build target for: /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala
+2025.03.24 17:11:38 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:38 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:38 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:39 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:39 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:39 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:40 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:39 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:41 WARN  no build target for: /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala
+2025.03.24 17:11:41 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:41 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:43 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:45 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:45 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:48 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:52 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:52 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:52 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:55 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:55 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:55 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:57 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:57 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:57 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:57 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:59 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:59 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:11:59 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:12:00 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:12:00 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:12:01 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:12:01 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:12:02 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:12:03 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:12:03 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:12:05 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:12:05 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:12:05 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:12:06 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:12:57 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:12:57 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:12:57 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:12:58 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:00 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:00 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:00 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:02 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:04 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:04 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:04 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:04 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:05 WARN  no build target for: /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala
+2025.03.24 17:13:04 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:05 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:05 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:05 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:05 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:05 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:05 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:07 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:07 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:07 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:07 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:08 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:08 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:09 WARN  no build target for: /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala
+2025.03.24 17:13:09 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:08 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:11 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:11 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:11 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:11 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:12 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:12 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:12 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:13 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:13 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:13 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:14 WARN  no build target for: /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala
+2025.03.24 17:13:14 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:15 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:15 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:17 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:17 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:17 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:19 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:19 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:19 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:19 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:20 WARN  no build target for: /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala
+2025.03.24 17:13:20 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:20 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:20 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:21 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:25 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:26 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:31 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:13:31 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 5:14:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:14:45 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 17:15:46 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:15:46 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:15:46 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:15:47 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:15:47 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:15:48 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 5:16:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:16:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:17:26 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:18:52 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:18:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:18:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:18:55 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:18:55 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:21:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:21:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:33:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:33:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 17:33:53 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:33:53 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:33:54 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:33:53 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 5:34:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:35:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:36:41 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:36:43 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:36:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:36:52 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 17:36:54 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:36:54 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:37:24 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:37:24 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:37:24 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:37:24 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:37:27 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:37:27 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:37:43 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:37:43 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 5:37:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:38:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 17:38:18 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:38:18 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:38:18 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:38:22 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:38:22 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:38:22 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:38:23 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 5:38:32 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 17:38:39 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 5:38:39 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 17:38:39 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:38:39 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:38:40 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:38:44 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:38:55 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:38:55 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:38:55 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:38:55 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:38:55 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:38:56 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:38:58 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:39:03 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:39:05 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:39:18 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:39:18 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:39:18 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:39:24 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 5:39:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:39:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:40:04 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:40:06 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 17:40:24 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:40:24 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:40:26 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:40:26 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:40:33 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:40:33 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:40:33 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:40:39 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:40:41 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:40:47 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:41:06 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 5:41:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:41:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:41:48 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:41:48 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 17:42:29 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 5:43:31 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:44:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:44:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:45:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:46:31 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:46:32 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:54:47 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:54:48 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 17:54:50 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:54:50 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:54:50 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 5:54:58 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:55:44 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 17:55:50 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:55:50 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 5:56:05 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:56:08 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:56:09 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:57:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:57:09 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 17:57:09 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:57:09 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+Mar 24, 2025 5:57:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:57:20 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 24, 2025 5:58:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.24 17:58:13 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:58:13 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:58:15 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:58:15 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.24 17:58:15 INFO  no build target found for /Users/avinash/Couture-Scala/httpScala/app/src/main/scala/org/HTTP/Client.scala. Using presentation compiler with project's scala-library version: 3.3.4
